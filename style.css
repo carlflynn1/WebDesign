@@ -1,0 +1,16 @@
+body {
+	font-family:Georgia;
+	
+	background-image: url("hotel.jpg");
+	background-repeat: no-repeat;
+}
+
+h1,h2,h3,h4,p,ul,form {
+	color:white;
+	
+}
+
+.location {
+	font-size:140%;
+	
+}
